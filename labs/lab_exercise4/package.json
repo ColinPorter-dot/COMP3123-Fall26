@@ -1,0 +1,25 @@
+{
+    "name": "week_04_express",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "tests": "echo \"Error: No test specified\"",
+        "start": "node index.js localhost 3000",
+        "dev": "nodemon index.js localhost 3000"
+    },
+    "keywords": [
+        "express",
+        "node vs nodemon",
+        "query vs params"
+    ],
+    "author": "Colin Porter",
+    "license": "ISC",
+    "description": "Practice using Express framework with Node",
+    "dependencies": {
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.14"
+    },
+    "type": "commonjs"
+}
