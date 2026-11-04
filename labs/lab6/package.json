@@ -1,0 +1,24 @@
+{
+  "name": "lab06_mongoose",
+  "version": "1.0.0",
+  "description": "Connect to the MongoDB using online Mongo credentials",
+  "homepage": "https://github.com/ColinPorter-dot/COMP3123-Fall26#readme",
+  "bugs": {
+    "url": "https://github.com/ColinPorter-dot/COMP3123-Fall26/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinPorter-dot/COMP3123-Fall26.git"
+  },
+  "license": "ISC",
+  "author": "Colin Porter",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "mongoose": "8.19.1"
+  }
+}
