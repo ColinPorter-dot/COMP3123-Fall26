@@ -1,7 +1,7 @@
 const express = require("express")
 const mongoose = require("mongoose")
 const noteRoutes = require("./routes/NoteRoutes.js")
-const DB_URL = "mongodb+srv://colinporter_db_user:5Mx8DJGMYpL0PZb7@week06cluster.vuox3ph.mongodb.net/?appName=Week06Cluster"
+const DB_URL = ":p"
 const PORT = process.env.PORT || 8081
 
 const app = express()
