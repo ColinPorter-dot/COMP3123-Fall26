@@ -1,0 +1,10 @@
+body {
+    font-family: system-ui, "Segoe UI", roboto, sans-serif;
+    margin: 16px;
+}
+
+input,
+select,
+button {
+    margin: 4px;
+}
